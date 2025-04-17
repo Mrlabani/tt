@@ -1,5 +1,5 @@
 {
-  "name": "terabox-api",
+  "name": "terabox-downloader",
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
